@@ -1,0 +1,29 @@
+/* 
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Zen Dots', cursive;
+*/
+
+.planets {
+    font-size: 0.9rem;
+    font-family: 'Zen Dots', cursive;    
+}
+
+.btn-primary{
+    border: none!important;
+}
+
+
+.card { 
+    text-align: justify; 
+}
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .planets {
+        font-size: 0.5rem;
+        font-family: 'Zen Dots', cursive;
+           
+    }
+}
+
